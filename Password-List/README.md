@@ -6,8 +6,8 @@ Copy this file to your project directory and run the terminal then you should gi
 
 Please help us in developing this program to make it more possible.
 
-By `Mahdi Mashayekhi`
-Website: http://mahdimashayekhi.ir
-instagram: https://instagram.com/mahdimashayekhi.ai
-twitter: https://twitter.com/mashayekhi_AI
-github: https://github.com/mahdimashayekhi-ai
+By `Mahdi Mashayekhi`</br></br>
+Website: http://mahdimashayekhi.ir</br>
+instagram: https://instagram.com/mahdimashayekhi.ai</br>
+twitter: https://twitter.com/mashayekhi_AI</br>
+github: https://github.com/mahdimashayekhi-ai</br>
